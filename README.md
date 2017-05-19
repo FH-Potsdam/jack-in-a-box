@@ -28,6 +28,22 @@ Jack in a Box
 
 ---
 
+## Design Todos
+
+- [ ] hardware
+    + [ ] the actual box
+    + [ ] the connection to the jack
+    + [ ] pcb?
+- [ ] visual language for diagrams
+    + [ ] definition for types of objects
+    + [ ] connections
+- [ ] documentation
+    + [ ] setup guides
+    + [ ] video
+    + [ ] website?
+
+---
+
 ## Technical Constrains
 
 ---
