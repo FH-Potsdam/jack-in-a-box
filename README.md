@@ -8,6 +8,7 @@ Jack in a Box
 “Jack in a Box” is attempt to design a prototyping framework for connected devices. As the name says it uses audio jacks as medium for communication. It is based on the master thesis by Victor Vina [“Box. Open System for Connected People”][boxthesis].  
 
 [boxthesis]: http://projectsfinal.interactionivrea.org/2001-2002/Summer%20Research%202001/presentations/report/box/box_thesis.pdf  
+
 ---
 
 ## Type of objects
