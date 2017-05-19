@@ -1,0 +1,31 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "Jack in a Box =============",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FH-Potsdam/jack-in-a-box.git"
+  },
+  "keywords": [
+    "Arduino",
+    "Jack"
+  ],
+  "author": "Fabian Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FH-Potsdam/jack-in-a-box/issues"
+  },
+  "homepage": "https://github.com/FH-Potsdam/jack-in-a-box#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
