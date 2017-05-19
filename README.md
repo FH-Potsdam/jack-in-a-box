@@ -61,14 +61,18 @@ Jack in a Box
 
 ---
 
-- [Adafruit Feather Huzzah][huzzah] (with WiFi)
+- [Adafruit Feather Huzzah ESP 8266][huzzah] (with WiFi)
+- [Adafruit Feather Huzzah 32][huzzah] (with WiFi)
 - [Adafruit Feather M0 Basic Proto][m0] (no WiFi)
 - [Arduino Micro 3.3v][micro] (no WiFi) 
-- ~~Particle Photon~~
+- ~~Particle Photon~~[^1]
 
 [huzzah]: https://learn.adafruit.com/adafruit-feather-huzzah-esp8266 "Tutorial about the board"
+[huzzah32]: https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/overview
 
 [m0]: https://learn.adafruit.com/adafruit-feather-m0-basic-proto/ "Tutorial about the board"
+
+[^1]: To add not to much overhead (cloud connection, Node.js, etc) we wont be using the Photon boards. 
 
 [micro]: https://ex-store.de/Arduino-Pro-Mini-328-3V3-8MHz-kompatibles-Board
 
