@@ -8,7 +8,7 @@ references:
   - family: Jeremijenko
 ---
 
-# Analysis of "Box. Open System for Connected People" _A paper by Victor Vina, 2002_ _by Paul Roeder_
+# Summary of "Box. Open System for Connected People" _A thesis by Victor Vina - by Paul Roeder_
 
 ## Social aspects
 
