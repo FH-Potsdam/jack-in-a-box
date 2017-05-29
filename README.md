@@ -8,9 +8,9 @@ Jack in a Box
 
 ## Type of objects
 
-- input (sensor emits an signal)
+- emitter (sensor emits an signal)
 - receiver (only receives an signal)
-- input/output (sensor/actuator, emitter/receiver)
+- receiver/emitter 
 - self-sufficient emitters (initiator/emitter e.g. pulse)
 - switches (relay signal to several outputs)
 - logic gates (can be implemented using a micro controller [see][logic])
